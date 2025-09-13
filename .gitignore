@@ -1,0 +1,15 @@
+# SO
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+# Airflow
+logs/
+# NRT files
+*.jsonl
+*_DONE
+# Datos grandes locales
+*.csv
+tmp/
+# Docker/compose
+.env
