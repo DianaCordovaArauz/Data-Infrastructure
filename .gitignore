@@ -7,3 +7,5 @@ __pycache__/
 # Archivos gigantes identificados por GitHub
 /data/df_vivienda_encoded.csv
 /data/censo_cotopaxi_clean.csv
+/data/df_vivienda_encoded.csv
+/data/censo_cotopaxi_clean.csv
