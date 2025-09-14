@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+# Archivos gigantes identificados por GitHub
+/data/df_vivienda_encoded.csv
+/data/censo_cotopaxi_clean.csv
